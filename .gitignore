@@ -1,0 +1,5 @@
+# Repository 내 데이터셋 트래킹 제외
+*.csv
+
+# (mac) .DS_Store 제외
+.DS_Store

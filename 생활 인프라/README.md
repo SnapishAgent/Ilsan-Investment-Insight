@@ -131,6 +131,8 @@
 <summary>증감률과 추이 그래프</summary>
 <div>
 
+<br>
+
 ## 대규모 점포
 
 ![line_graph_life_infra_년도별_대규모점포_추이](https://github.com/user-attachments/assets/560693e9-013c-4c7b-8362-4ae164df535a)
@@ -138,12 +140,13 @@
 ![line_graph_life_infra_년도별_대규모점포_증감률](https://github.com/user-attachments/assets/ff1bc8a9-f733-43bf-94ad-9c4a436bc657)
 
 
-## 음식점
 
+## 음식점
 
 ![line_graph_life_infra_음식점_점포수_추이](https://github.com/user-attachments/assets/c8d75f5f-1fc9-4c52-9558-e13f27017565)
 
 ![line_graph_life_infra_음식점_점포수_증감률](https://github.com/user-attachments/assets/af1c943d-4947-4f91-ab9c-6327c1186827)
+
 
 
 ## 병원
@@ -153,11 +156,13 @@
 ![line_graph_life_infra_년도별_병원_증감률](https://github.com/user-attachments/assets/af12802b-5857-4698-af76-f49b5e21171f)
 
 
+
 ## 의원
 
 ![line_graph_life_infra_년도별_의원_추이](https://github.com/user-attachments/assets/28f4b5bf-9013-4016-bc12-02d38abb1974)
 
 ![line_graph_life_infra_년도별_의원_증감률](https://github.com/user-attachments/assets/0ce18d49-80fc-406e-b216-fe011143d9b5)
+
 
 
 ## 학교
@@ -167,14 +172,15 @@
 ![line_graph_life_infra_지역별_학교_증가율](https://github.com/user-attachments/assets/7a1aec07-2706-4a34-8cd5-9708670c1c90)
 
 
+
 </div>
 </details>
 
 
 <details>
-<summary>개수 비교 그래프</summary>
+<summary>년도별 개수 비교 그래프</summary>
 <div>
-# 생활 인프라 그래프   
+  
 
 ## 2024 11월 기준 
 
@@ -340,6 +346,11 @@
 분당 병원 데이터 (171231 기준): 29개   
 분당 학교 데이터 (171231 기준): 86개   
 분당 의원 데이터 (171231 기준): 877개   
+
+| 구분       | 대규모점포 | 음식점  | 병원  | 학교 | 의원  |
+|------------|------------|---------|-------|------|-------|
+| 일산       | 48         | 10741   | 51    | 94   | 662   |
+| 분당       | 68         | 4563    | 29    | 86   | 877   |
 
 ![일산_vs_분당_생활_인프라_2017년_기준](https://github.com/user-attachments/assets/75965ad7-41c9-44ed-8b78-4960bba70b79)
 

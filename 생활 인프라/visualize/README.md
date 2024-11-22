@@ -198,6 +198,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 일산 음식점 데이터 (241231 기준): 5721개   
 =======
 >>>>>>> 44188fd (update rader chart images)
@@ -209,6 +210,11 @@
 =======
 일산 음식점 데이터 (241231 기준): 5721개   
 >>>>>>> 750575a (update rader chart images)
+=======
+일산 음식점 데이터 (241231 기준): 5721개   
+=======
+>>>>>>> 44188fd (update rader chart images)
+>>>>>>> ab0cc82 (update rader chart images)
 일산 병원 데이터 (241231 기준): 51개   
 일산 학교 데이터 (241231 기준): 96개   
 일산 공원 데이터 (241231 기준): 137개   
@@ -271,6 +277,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 일산 음식점 데이터 (231231 기준): 5760개   
 =======
 >>>>>>> 44188fd (update rader chart images)
@@ -282,6 +289,11 @@
 =======
 일산 음식점 데이터 (231231 기준): 5760개   
 >>>>>>> 750575a (update rader chart images)
+=======
+일산 음식점 데이터 (231231 기준): 5760개   
+=======
+>>>>>>> 44188fd (update rader chart images)
+>>>>>>> ab0cc82 (update rader chart images)
 일산 병원 데이터 (231231 기준): 50개   
 일산 학교 데이터 (231231 기준): 95개   
 일산 의원 데이터 (231231 기준): 728개   
@@ -298,6 +310,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ![일산_vs_분당_생활_인프라_2023년_기준](https://github.com/user-attachments/assets/cb49da83-6265-4494-ba2e-aebb698ae36b)
 =======
 >>>>>>> 44188fd (update rader chart images)
@@ -309,6 +322,11 @@
 =======
 ![일산_vs_분당_생활_인프라_2023년_기준](https://github.com/user-attachments/assets/cb49da83-6265-4494-ba2e-aebb698ae36b)
 >>>>>>> 750575a (update rader chart images)
+=======
+![일산_vs_분당_생활_인프라_2023년_기준](https://github.com/user-attachments/assets/cb49da83-6265-4494-ba2e-aebb698ae36b)
+=======
+>>>>>>> 44188fd (update rader chart images)
+>>>>>>> ab0cc82 (update rader chart images)
 
 <<<<<<< HEAD
 =======
@@ -347,6 +365,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 일산 음식점 데이터 (221231 기준): 5718개   
 =======
 >>>>>>> 44188fd (update rader chart images)
@@ -358,6 +377,11 @@
 =======
 일산 음식점 데이터 (221231 기준): 5718개   
 >>>>>>> 750575a (update rader chart images)
+=======
+일산 음식점 데이터 (221231 기준): 5718개   
+=======
+>>>>>>> 44188fd (update rader chart images)
+>>>>>>> ab0cc82 (update rader chart images)
 일산 병원 데이터 (221231 기준): 52개   
 일산 학교 데이터 (221231 기준): 95개   
 일산 의원 데이터 (221231 기준): 723개   
@@ -372,6 +396,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ab0cc82 (update rader chart images)
 분당 의원 데이터 (221231 기준): 963개     
 =======
 >>>>>>> bc94abb (update rader chart images)
@@ -388,6 +415,12 @@
 
 
 ![일산_vs_분당_생활_인프라_2022년_기준](https://github.com/user-attachments/assets/c0754a5a-7924-4447-b1b3-7eb1105907a8)
+=======
+
+
+![일산_vs_분당_생활_인프라_2022년_기준](https://github.com/user-attachments/assets/c0754a5a-7924-4447-b1b3-7eb1105907a8)
+
+>>>>>>> 44188fd (update rader chart images)
 
 >>>>>>> 44188fd (update rader chart images)
 
@@ -429,6 +462,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 일산 음식점 데이터 (211231 기준): 5745개   
 =======
 >>>>>>> 44188fd (update rader chart images)
@@ -440,6 +474,11 @@
 =======
 일산 음식점 데이터 (211231 기준): 5745개   
 >>>>>>> 750575a (update rader chart images)
+=======
+일산 음식점 데이터 (211231 기준): 5745개   
+=======
+>>>>>>> 44188fd (update rader chart images)
+>>>>>>> ab0cc82 (update rader chart images)
 일산 병원 데이터 (211231 기준): 52개   
 일산 학교 데이터 (211231 기준): 95개   
 일산 의원 데이터 (211231 기준): 714개   
@@ -455,6 +494,11 @@
 ![일산_vs_분당_생활_인프라_2021년_기준](https://github.com/user-attachments/assets/7f795286-38df-4c0b-865a-9f662eef5260)
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
+
+>>>>>>> 44188fd (update rader chart images)
+>>>>>>> ab0cc82 (update rader chart images)
 
 >>>>>>> 44188fd (update rader chart images)
 
@@ -495,6 +539,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 일산 음식점 데이터 (201231 기준): 5667개   
 =======
 >>>>>>> 44188fd (update rader chart images)
@@ -506,6 +551,11 @@
 =======
 일산 음식점 데이터 (201231 기준): 5667개   
 >>>>>>> 750575a (update rader chart images)
+=======
+일산 음식점 데이터 (201231 기준): 5667개   
+=======
+>>>>>>> 44188fd (update rader chart images)
+>>>>>>> ab0cc82 (update rader chart images)
 일산 병원 데이터 (201231 기준): 53개   
 일산 학교 데이터 (201231 기준): 95개   
 일산 의원 데이터 (201231 기준): 698개   
@@ -551,10 +601,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ab0cc82 (update rader chart images)
 ![일산_vs_분당_생활_인프라_2020년_기준](https://github.com/user-attachments/assets/f46fd03e-76aa-4843-aabf-0498d5f9328b)
 
 =======
 >>>>>>> 44188fd (update rader chart images)
+<<<<<<< HEAD
 =======
 ![일산_vs_분당_생활_인프라_2020년_기준](https://github.com/user-attachments/assets/f46fd03e-76aa-4843-aabf-0498d5f9328b)
 
@@ -565,6 +619,8 @@
 ![일산_vs_분당_생활_인프라_2020년_기준](https://github.com/user-attachments/assets/f46fd03e-76aa-4843-aabf-0498d5f9328b)
 
 >>>>>>> 750575a (update rader chart images)
+=======
+>>>>>>> ab0cc82 (update rader chart images)
 
 
 ## 2019년도 기준
@@ -590,6 +646,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 일산 음식점 데이터 (191231 기준): 5523개   
 =======
 >>>>>>> 44188fd (update rader chart images)
@@ -601,6 +658,11 @@
 =======
 일산 음식점 데이터 (191231 기준): 5523개   
 >>>>>>> 750575a (update rader chart images)
+=======
+일산 음식점 데이터 (191231 기준): 5523개   
+=======
+>>>>>>> 44188fd (update rader chart images)
+>>>>>>> ab0cc82 (update rader chart images)
 일산 병원 데이터 (191231 기준): 54개   
 일산 학교 데이터 (191231 기준): 95개   
 일산 의원 데이터 (191231 기준): 675개   
@@ -616,6 +678,11 @@
 ![일산_vs_분당_생활_인프라_2019년_기준](https://github.com/user-attachments/assets/3e80b620-e935-40a7-8eed-ec4292b95680)
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
+
+>>>>>>> 44188fd (update rader chart images)
+>>>>>>> ab0cc82 (update rader chart images)
 
 >>>>>>> 44188fd (update rader chart images)
 
@@ -666,6 +733,11 @@
 ![일산_vs_분당_생활_인프라_2018년_기준](https://github.com/user-attachments/assets/c04954cc-d2ce-4383-9d59-4e3ca7382bd0)
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
+
+>>>>>>> 44188fd (update rader chart images)
+>>>>>>> ab0cc82 (update rader chart images)
 
 >>>>>>> 44188fd (update rader chart images)
 
@@ -706,6 +778,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 일산 음식점 데이터 (171231 기준): 5917개   
 =======
 >>>>>>> 44188fd (update rader chart images)
@@ -717,6 +790,11 @@
 =======
 일산 음식점 데이터 (171231 기준): 5917개   
 >>>>>>> 750575a (update rader chart images)
+=======
+일산 음식점 데이터 (171231 기준): 5917개   
+=======
+>>>>>>> 44188fd (update rader chart images)
+>>>>>>> ab0cc82 (update rader chart images)
 일산 병원 데이터 (171231 기준): 51개   
 일산 학교 데이터 (171231 기준): 94개   
 일산 의원 데이터 (171231 기준): 662개   
@@ -731,6 +809,11 @@
 ![일산_vs_분당_생활_인프라_2017년_기준](https://github.com/user-attachments/assets/75965ad7-41c9-44ed-8b78-4960bba70b79)
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
+
+>>>>>>> 44188fd (update rader chart images)
+>>>>>>> ab0cc82 (update rader chart images)
 
 >>>>>>> 44188fd (update rader chart images)
 
@@ -771,6 +854,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 일산 음식점 데이터 (161231 기준): 5834개   
 =======
 >>>>>>> 44188fd (update rader chart images)
@@ -782,6 +866,11 @@
 =======
 일산 음식점 데이터 (161231 기준): 5834개   
 >>>>>>> 750575a (update rader chart images)
+=======
+일산 음식점 데이터 (161231 기준): 5834개   
+=======
+>>>>>>> 44188fd (update rader chart images)
+>>>>>>> ab0cc82 (update rader chart images)
 일산 병원 데이터 (161231 기준): 49개   
 일산 학교 데이터 (161231 기준): 93개   
 일산 의원 데이터 (161231 기준): 661개   
@@ -796,6 +885,11 @@
 ![일산_vs_분당_생활_인프라_2016년_기준](https://github.com/user-attachments/assets/1a26fc62-8443-4ea1-9d13-95a6f23ceb21)
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
+
+>>>>>>> 44188fd (update rader chart images)
+>>>>>>> ab0cc82 (update rader chart images)
 
 >>>>>>> 44188fd (update rader chart images)
 
@@ -836,6 +930,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 일산 음식점 데이터 (151231 기준): 5945개   
 =======
 >>>>>>> 44188fd (update rader chart images)
@@ -847,6 +942,11 @@
 =======
 일산 음식점 데이터 (151231 기준): 5945개   
 >>>>>>> 750575a (update rader chart images)
+=======
+일산 음식점 데이터 (151231 기준): 5945개   
+=======
+>>>>>>> 44188fd (update rader chart images)
+>>>>>>> ab0cc82 (update rader chart images)
 일산 병원 데이터 (151231 기준): 46개   
 일산 학교 데이터 (151231 기준): 93개   
 일산 의원 데이터 (151231 기준): 664개   
@@ -862,6 +962,11 @@
 ![일산_vs_분당_생활_인프라_2015년_기준](https://github.com/user-attachments/assets/e3d2b08e-437d-462c-a5f2-0295e4977de0)
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
+
+>>>>>>> 44188fd (update rader chart images)
+>>>>>>> ab0cc82 (update rader chart images)
 
 >>>>>>> 44188fd (update rader chart images)
 
@@ -906,6 +1011,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 일산 음식점 데이터 (141231 기준): 5792개   
 =======
 >>>>>>> 44188fd (update rader chart images)
@@ -917,6 +1023,11 @@
 =======
 일산 음식점 데이터 (141231 기준): 5792개   
 >>>>>>> 750575a (update rader chart images)
+=======
+일산 음식점 데이터 (141231 기준): 5792개   
+=======
+>>>>>>> 44188fd (update rader chart images)
+>>>>>>> ab0cc82 (update rader chart images)
 일산 병원 데이터 (141231 기준): 44개   
 일산 학교 데이터 (141231 기준): 93개   
 일산 의원 데이터 (141231 기준): 643개   
@@ -928,6 +1039,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 분당 음식점 데이터 (141231 기준): 4352개   
 =======
 >>>>>>> 44188fd (update rader chart images)
@@ -939,6 +1051,11 @@
 =======
 분당 음식점 데이터 (141231 기준): 4352개   
 >>>>>>> 750575a (update rader chart images)
+=======
+분당 음식점 데이터 (141231 기준): 4352개   
+=======
+>>>>>>> 44188fd (update rader chart images)
+>>>>>>> ab0cc82 (update rader chart images)
 분당 병원 데이터 (141231 기준): 26개   
 분당 학교 데이터 (141231 기준): 86개   
 분당 의원 데이터 (141231 기준): 815개   
@@ -947,6 +1064,11 @@
 ![일산_vs_분당_생활_인프라_2014년_기준](https://github.com/user-attachments/assets/8df9e9a0-1d3f-42ee-8dc3-e3244b474f83)
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
+
+>>>>>>> 44188fd (update rader chart images)
+>>>>>>> ab0cc82 (update rader chart images)
 
 >>>>>>> 44188fd (update rader chart images)
 
@@ -996,6 +1118,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 일산 음식점 데이터 (131231 기준): 5641개   
 =======
 >>>>>>> 44188fd (update rader chart images)
@@ -1007,6 +1130,11 @@
 =======
 일산 음식점 데이터 (131231 기준): 5641개   
 >>>>>>> 750575a (update rader chart images)
+=======
+일산 음식점 데이터 (131231 기준): 5641개   
+=======
+>>>>>>> 44188fd (update rader chart images)
+>>>>>>> ab0cc82 (update rader chart images)
 일산 병원 데이터 (131231 기준): 42개   
 일산 학교 데이터 (131231 기준): 93개   
 일산 의원 데이터 (131231 기준): 622개   
@@ -1052,10 +1180,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ab0cc82 (update rader chart images)
 ![일산_vs_분당_생활_인프라_2013년_기준](https://github.com/user-attachments/assets/d3a28124-2c65-42bc-802d-c4513ce225cf)
 
 =======
 >>>>>>> 44188fd (update rader chart images)
+<<<<<<< HEAD
 =======
 ![일산_vs_분당_생활_인프라_2013년_기준](https://github.com/user-attachments/assets/d3a28124-2c65-42bc-802d-c4513ce225cf)
 
@@ -1066,6 +1198,8 @@
 ![일산_vs_분당_생활_인프라_2013년_기준](https://github.com/user-attachments/assets/d3a28124-2c65-42bc-802d-c4513ce225cf)
 
 >>>>>>> 750575a (update rader chart images)
+=======
+>>>>>>> ab0cc82 (update rader chart images)
 
 
 ## 2012년도 기준
@@ -1091,6 +1225,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 일산 음식점 데이터 (121231 기준): 5537개   
 =======
 >>>>>>> 44188fd (update rader chart images)
@@ -1102,6 +1237,11 @@
 =======
 일산 음식점 데이터 (121231 기준): 5537개   
 >>>>>>> 750575a (update rader chart images)
+=======
+일산 음식점 데이터 (121231 기준): 5537개   
+=======
+>>>>>>> 44188fd (update rader chart images)
+>>>>>>> ab0cc82 (update rader chart images)
 일산 병원 데이터 (121231 기준): 40개   
 일산 학교 데이터 (121231 기준): 93개   
 일산 의원 데이터 (121231 기준): 625개   
@@ -1176,10 +1316,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ab0cc82 (update rader chart images)
 ![일산_vs_분당_생활_인프라_2012년_기준](https://github.com/user-attachments/assets/2753b24e-fac2-42c7-abbe-d8f12292a6ab)
 
 =======
 >>>>>>> 44188fd (update rader chart images)
+<<<<<<< HEAD
 =======
 ![일산_vs_분당_생활_인프라_2012년_기준](https://github.com/user-attachments/assets/2753b24e-fac2-42c7-abbe-d8f12292a6ab)
 
@@ -1190,6 +1334,8 @@
 ![일산_vs_분당_생활_인프라_2012년_기준](https://github.com/user-attachments/assets/2753b24e-fac2-42c7-abbe-d8f12292a6ab)
 
 >>>>>>> 750575a (update rader chart images)
+=======
+>>>>>>> ab0cc82 (update rader chart images)
 
 
 ## 2011년 기준
@@ -1200,6 +1346,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 일산 음식점 데이터 (111231 기준): 5448개   
 =======
 >>>>>>> 44188fd (update rader chart images)
@@ -1211,6 +1358,11 @@
 =======
 일산 음식점 데이터 (111231 기준): 5448개   
 >>>>>>> 750575a (update rader chart images)
+=======
+일산 음식점 데이터 (111231 기준): 5448개   
+=======
+>>>>>>> 44188fd (update rader chart images)
+>>>>>>> ab0cc82 (update rader chart images)
 일산 병원 데이터 (111231 기준): 36개   
 일산 학교 데이터 (111231 기준): 91개   
 일산 의원 데이터 (111231 기준): 611개   
@@ -1222,10 +1374,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ab0cc82 (update rader chart images)
 분당 대규모점포 데이터 (111231 기준): 54개   
 분당 음식점 데이터 (111231 기준): 3768개   
 =======
 >>>>>>> 44188fd (update rader chart images)
+<<<<<<< HEAD
 =======
 분당 대규모점포 데이터 (111231 기준): 54개   
 분당 음식점 데이터 (111231 기준): 3768개   
@@ -1236,6 +1392,8 @@
 분당 대규모점포 데이터 (111231 기준): 54개   
 분당 음식점 데이터 (111231 기준): 3768개   
 >>>>>>> 750575a (update rader chart images)
+=======
+>>>>>>> ab0cc82 (update rader chart images)
 분당 병원 데이터 (111231 기준): 25개   
 분당 학교 데이터 (111231 기준): 85개   
 분당 의원 데이터 (111231 기준): 735개   
@@ -1244,6 +1402,11 @@
 ![일산_vs_분당_생활_인프라_2011년_기준](https://github.com/user-attachments/assets/dfe13669-17fd-4e43-8de6-ce8d0337ccdb)
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
+
+>>>>>>> 44188fd (update rader chart images)
+>>>>>>> ab0cc82 (update rader chart images)
 
 >>>>>>> 44188fd (update rader chart images)
 
@@ -1322,10 +1485,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ab0cc82 (update rader chart images)
 ![일산_vs_분당_생활_인프라_2010년_기준](https://github.com/user-attachments/assets/3b81e50b-fc5e-46f2-9e76-6848d67b3f6f)
 
 =======
 >>>>>>> 44188fd (update rader chart images)
+<<<<<<< HEAD
 =======
 ![일산_vs_분당_생활_인프라_2010년_기준](https://github.com/user-attachments/assets/3b81e50b-fc5e-46f2-9e76-6848d67b3f6f)
 
@@ -1336,6 +1503,8 @@
 ![일산_vs_분당_생활_인프라_2010년_기준](https://github.com/user-attachments/assets/3b81e50b-fc5e-46f2-9e76-6848d67b3f6f)
 
 >>>>>>> 750575a (update rader chart images)
+=======
+>>>>>>> ab0cc82 (update rader chart images)
 
 
 ## 2009년 기준
@@ -1361,10 +1530,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> cd91557 (update rader chart images)
 =======
 >>>>>>> 750575a (update rader chart images)
+=======
+>>>>>>> ab0cc82 (update rader chart images)
 일산 음식점 데이터 (091231 기준): 5289개   
 일산 병원 데이터 (091231 기준): 37개   
 일산 학교 데이터 (091231 기준): 84개   
@@ -1372,11 +1544,15 @@
 일산 의원 데이터 (091231 기준): 598개   
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ab0cc82 (update rader chart images)
 =======
 일산 병원 데이터 (091231 기준): 37개   
 일산 학교 데이터 (091231 기준): 84개   
 일산 의원 데이터 (091231 기준): 598개   
 >>>>>>> 44188fd (update rader chart images)
+<<<<<<< HEAD
 =======
 >>>>>>> cd91557 (update rader chart images)
 =======
@@ -1386,6 +1562,8 @@
 >>>>>>> bc94abb (update rader chart images)
 =======
 >>>>>>> 750575a (update rader chart images)
+=======
+>>>>>>> ab0cc82 (update rader chart images)
 
 
 분당 대규모점포 데이터 (091231 기준): 47개   
@@ -1397,6 +1575,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ab0cc82 (update rader chart images)
 분당 의원 데이터 (091231 기준): 660개   
 =======
 >>>>>>> bc94abb (update rader chart images)
@@ -1411,6 +1592,11 @@
 >>>>>>> 750575a (update rader chart images)
 
 ![일산_vs_분당_생활_인프라_2009년_기준](https://github.com/user-attachments/assets/a565b137-71f1-4d97-b2a2-b7fdce2691d9)
+=======
+
+![일산_vs_분당_생활_인프라_2009년_기준](https://github.com/user-attachments/assets/a565b137-71f1-4d97-b2a2-b7fdce2691d9)
+
+>>>>>>> 44188fd (update rader chart images)
 
 <<<<<<< HEAD
 >>>>>>> 44188fd (update rader chart images)
@@ -1451,6 +1637,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 일산 음식점 데이터 (081231 기준): 5463개   
 =======
 >>>>>>> 44188fd (update rader chart images)
@@ -1462,6 +1649,11 @@
 =======
 일산 음식점 데이터 (081231 기준): 5463개   
 >>>>>>> 750575a (update rader chart images)
+=======
+일산 음식점 데이터 (081231 기준): 5463개   
+=======
+>>>>>>> 44188fd (update rader chart images)
+>>>>>>> ab0cc82 (update rader chart images)
 일산 병원 데이터 (081231 기준): 31개   
 일산 학교 데이터 (081231 기준): 84개   
 일산 의원 데이터 (081231 기준): 598개   
@@ -1476,6 +1668,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 분당 의원 데이터 (081231 기준): 652개   
 =======
 >>>>>>> 44188fd (update rader chart images)
@@ -1487,6 +1680,11 @@
 =======
 분당 의원 데이터 (081231 기준): 652개   
 >>>>>>> 750575a (update rader chart images)
+=======
+분당 의원 데이터 (081231 기준): 652개   
+=======
+>>>>>>> 44188fd (update rader chart images)
+>>>>>>> ab0cc82 (update rader chart images)
 
 
 ![일산_vs_분당_생활_인프라_2008년_기준](https://github.com/user-attachments/assets/9bd8d371-bb4d-40b6-ab4d-8aebe1f0438f)
@@ -1540,6 +1738,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 일산 음식점 데이터 (071231 기준): 5456개   
 =======
 >>>>>>> 44188fd (update rader chart images)
@@ -1551,6 +1750,11 @@
 =======
 일산 음식점 데이터 (071231 기준): 5456개   
 >>>>>>> 750575a (update rader chart images)
+=======
+일산 음식점 데이터 (071231 기준): 5456개   
+=======
+>>>>>>> 44188fd (update rader chart images)
+>>>>>>> ab0cc82 (update rader chart images)
 일산 병원 데이터 (071231 기준): 28개   
 일산 학교 데이터 (071231 기준): 78개   
 일산 의원 데이터 (071231 기준): 579개   
@@ -1643,6 +1847,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 분당 의원 데이터 (071231 기준): 635개  
 =======
 >>>>>>> 44188fd (update rader chart images)
@@ -1654,6 +1859,11 @@
 =======
 분당 의원 데이터 (071231 기준): 635개  
 >>>>>>> 750575a (update rader chart images)
+=======
+분당 의원 데이터 (071231 기준): 635개  
+=======
+>>>>>>> 44188fd (update rader chart images)
+>>>>>>> ab0cc82 (update rader chart images)
 
 
 ![일산_vs_분당_생활_인프라_2007년_기준](https://github.com/user-attachments/assets/b8287f9a-bf07-41fa-bb49-b90cf82e53bb)
@@ -1662,10 +1872,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ab0cc82 (update rader chart images)
 ![일산_vs_분당_생활_인프라_2007년_기준](https://github.com/user-attachments/assets/b8287f9a-bf07-41fa-bb49-b90cf82e53bb)
 
 =======
 >>>>>>> 44188fd (update rader chart images)
+<<<<<<< HEAD
 =======
 ![일산_vs_분당_생활_인프라_2007년_기준](https://github.com/user-attachments/assets/b8287f9a-bf07-41fa-bb49-b90cf82e53bb)
 
@@ -1676,6 +1890,8 @@
 ![일산_vs_분당_생활_인프라_2007년_기준](https://github.com/user-attachments/assets/b8287f9a-bf07-41fa-bb49-b90cf82e53bb)
 
 >>>>>>> 750575a (update rader chart images)
+=======
+>>>>>>> ab0cc82 (update rader chart images)
 
 
 ## 2006년도 기준
@@ -1701,6 +1917,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 일산 음식점 데이터 (061231 기준): 5245개   
 =======
 >>>>>>> 44188fd (update rader chart images)
@@ -1712,6 +1929,11 @@
 =======
 일산 음식점 데이터 (061231 기준): 5245개   
 >>>>>>> 750575a (update rader chart images)
+=======
+일산 음식점 데이터 (061231 기준): 5245개   
+=======
+>>>>>>> 44188fd (update rader chart images)
+>>>>>>> ab0cc82 (update rader chart images)
 일산 병원 데이터 (061231 기준): 20개   
 일산 학교 데이터 (061231 기준): 77개   
 일산 의원 데이터 (061231 기준): 520개   
@@ -1752,6 +1974,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ![일산_vs_분당_생활_인프라_2006년_기준](https://github.com/user-attachments/assets/ea5b70ef-45a8-4d9c-a398-e5dcda1f678b)
 
 =======
@@ -1761,8 +1984,12 @@
 
 =======
 =======
+=======
+>>>>>>> ab0cc82 (update rader chart images)
 ![일산_vs_분당_생활_인프라_2006년_기준](https://github.com/user-attachments/assets/ea5b70ef-45a8-4d9c-a398-e5dcda1f678b)
 
+=======
+>>>>>>> 44188fd (update rader chart images)
 </div>
 </details>
 <<<<<<< HEAD

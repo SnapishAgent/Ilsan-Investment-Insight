@@ -131,43 +131,54 @@
 <summary>증감률과 추이 그래프</summary>
 <div>
 
-<br>
+<br><br>
+
 
 ## 대규모 점포
 
 ![line_graph_life_infra_년도별_대규모점포_추이](https://github.com/user-attachments/assets/560693e9-013c-4c7b-8362-4ae164df535a)
 
+<br><br>
+
 ![line_graph_life_infra_년도별_대규모점포_증감률](https://github.com/user-attachments/assets/ff1bc8a9-f733-43bf-94ad-9c4a436bc657)
 
 
-
+<br><br>
 ## 음식점
 
 ![line_graph_life_infra_음식점_점포수_추이](https://github.com/user-attachments/assets/c8d75f5f-1fc9-4c52-9558-e13f27017565)
 
+<br><br>
+
 ![line_graph_life_infra_음식점_점포수_증감률](https://github.com/user-attachments/assets/af1c943d-4947-4f91-ab9c-6327c1186827)
 
 
-
+<br><br>
 ## 병원
 
 ![line_graph_life_infra_년도별_병원_추이](https://github.com/user-attachments/assets/b5f8a02e-76c3-4a6b-bb0e-cc77256113bb)
 
+<br><br>
+
 ![line_graph_life_infra_년도별_병원_증감률](https://github.com/user-attachments/assets/af12802b-5857-4698-af76-f49b5e21171f)
 
 
-
+<br><br>
 ## 의원
 
 ![line_graph_life_infra_년도별_의원_추이](https://github.com/user-attachments/assets/28f4b5bf-9013-4016-bc12-02d38abb1974)
 
+<br><br>
+
 ![line_graph_life_infra_년도별_의원_증감률](https://github.com/user-attachments/assets/0ce18d49-80fc-406e-b216-fe011143d9b5)
 
 
-
+<br><br>
 ## 학교
 
 ![line_graph_life_infra_지역별_학교_추이](https://github.com/user-attachments/assets/81e7b897-d167-4e58-ab8e-600d85c31331)
+
+<br><br>
 
 ![line_graph_life_infra_지역별_학교_증가율](https://github.com/user-attachments/assets/7a1aec07-2706-4a34-8cd5-9708670c1c90)
 

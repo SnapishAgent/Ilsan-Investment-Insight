@@ -1,3 +1,18 @@
+# 원본 데이터 형태
+* 시군구 경제활동인구 (성남시, 고양시)
+  * Shape of dataframe 0: (3, 15)
+  * Shape of dataframe 1: (9, 15)
+  * Shape of dataframe 2: (23, 15)
+* 주민등록인구및세대현황  (성남시, 고양시)
+  * Shape of population dataframe 0: (43, 362)
+  * Shape of population dataframe 1: (43, 362)
+  * Shape of population dataframe 2: (53, 362)
+  * Shape of population dataframe 3: (48, 134)
+  * Shape of population dataframe 4: (55, 362)
+  * Shape of population dataframe 5: (54, 362)
+  * Shape of population dataframe 6: (54, 362)
+  * Shape of population dataframe 7: (54, 134)
+
 # 경기도 성남시 취업률 / 고용률 / 실업률 (17, 11)
 
 |     | 행정구역별 | 연도 | 총 인구수 | 15세이상인구 (천명) | 경제활동인구 (천명) | 취업자 (천명) | 실업자 (천명) | 비경제활동인구 (천명) | 취업률(%) | 고용률 (%) | 실업률 (％) |

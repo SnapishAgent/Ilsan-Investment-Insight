@@ -2,11 +2,22 @@
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 생활 인프라 그래프
 
 ## 2024 11월 기준
 =======
+<<<<<<< HEAD
 >>>>>>> f383b65 (update rader chart images)
+=======
+=======
+=======
+# 생활 인프라 그래프
+
+## 2024 11월 기준
+>>>>>>> 4cec626 (Modify : Delete confilcted word)
+>>>>>>> 65df4d4 (Modify : Delete confilcted word)
+>>>>>>> 95cb51a (Modify : Delete confilcted word)
 ## 데이터
 
 =======

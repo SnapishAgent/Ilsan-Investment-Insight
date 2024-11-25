@@ -59,11 +59,11 @@
 
 # 성남시와 고양시 총인구수 변화 (연평균)
 
-![alt text](image-1.png)
+![alt text](image.png)
 
 # 종합 시각화 (취업률, 고용률, 실업률)
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 ## 분석
 

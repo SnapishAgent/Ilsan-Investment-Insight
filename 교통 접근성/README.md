@@ -23,16 +23,16 @@
 <summary>교통 접근성</summary>
 <div>
 
-##일산신도시
+## 일산신도시
 
 ![ilsan_apt_subway_density](https://github.com/user-attachments/assets/5b5a58ed-ecc1-47f3-af35-fbbfafe53d96)
 
-##분당신도시
+## 분당신도시
 
 ![bundang_apt_subway_density](https://github.com/user-attachments/assets/b0b95df4-8ad3-45ae-92ba-becff1f9da1b)
 
 
-##밀집도 비교
+## 밀집도 비교
 ![ilsan_bundang_apt_subway_density](https://github.com/user-attachments/assets/7dcd3b2a-3c90-4996-8c8b-179043a4742d)
 
 

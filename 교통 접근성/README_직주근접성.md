@@ -41,5 +41,20 @@
 - 분당/일산 최단 직선거리 기준 시각화
     ![shortest_result_map_cropped](https://github.com/user-attachments/assets/6f8cd8fd-017e-4dde-9466-18e5a96f0a11)
 
+- 분당/일산 최단 직선거리 기준 자차 운행 소요거리(km) - 시간
+    ![image](https://github.com/user-attachments/assets/5b250fff-66bb-443d-a581-508d08ccc4b2)
+    ![image](https://github.com/user-attachments/assets/00561b82-ba6e-473b-a9b1-64e34297efe4)
+
+
 - 분당/일산 최장 직선거리 기준 시각화
     ![longest_result_map_cropped](https://github.com/user-attachments/assets/b018adf8-3c5d-4177-9309-d8ab415a190e)
+
+- 분당/일산 최장 직선거리 기준 자차 운행 소요거리(km) - 시간
+    ![image](https://github.com/user-attachments/assets/d004f877-587d-4c8d-a3a4-f584a6b7d460)
+    ![image](https://github.com/user-attachments/assets/9a98dcad-b165-49ab-aacc-3054c0ee5249)
+
+</body>
+</html>
+
+
+

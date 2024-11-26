@@ -18,11 +18,14 @@
 
 ## 분당 신도시 아파트와 지하철역의 밀집도
 
-![bundang_apt_subway_heatmap](https://github.com/user-attachments/assets/e096b7bc-d3fd-4f88-a413-8daf845b30a5)
+![bundang_apt_subway_heatmap](https://github.com/user-attachments/assets/1abe31ca-1546-450e-8410-857e44455930)
+
 
 ## 일산 신도시 아파트와 지하철역의 밀집도
 
-![ilsan_apt_subway_heatmap](https://github.com/user-attachments/assets/8267ffb4-63de-4167-9094-01233b9d6dec)
+![ilsan_apt_subway_heatmap](https://github.com/user-attachments/assets/2aa72895-9842-40a5-bba5-c9ef99c407c9)
+
+
 
 </div>
 </details>

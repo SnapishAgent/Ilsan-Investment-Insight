@@ -37,3 +37,9 @@
 
 - 서울시 구별 등록된 회사 수
     ![seoul_company_count](https://github.com/user-attachments/assets/146cea31-3a44-4888-80e4-7dbee472c47b)
+
+- 분당/일산 최단 직선거리 기준 시각화
+    ![shortest_result_map_cropped](https://github.com/user-attachments/assets/6f8cd8fd-017e-4dde-9466-18e5a96f0a11)
+
+- 분당/일산 최장 직선거리 기준 시각화
+    ![longest_result_map_cropped](https://github.com/user-attachments/assets/b018adf8-3c5d-4177-9309-d8ab415a190e)

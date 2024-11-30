@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_2520d952939b281f436f44744180cbfc {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+    <script src="https://cdn.jsdelivr.net/gh/python-visualization/folium@main/folium/templates/leaflet_heat.min.js"></script>
+</head>
+<body>
+    
+    
+<div style="
+    position: fixed;
+    bottom: 50px;
+    left: 50px;
+    width: 280px;
+    height: 80px;
+    background-color: white;
+    border:2px solid grey;
+    z-index:9999;
+    font-size:14px;
+    padding: 10px;">
+    <strong>분당 아파트 밀집도</strong><br>
+    <i style="background:blue; width:10px; height:10px; float:left; margin-right:5px; display:inline-block;"></i> 분당신도시 지하철역 <br>
+    <i style="background:red; width:10px; height:10px; float:left; margin-right:5px; display:inline-block;"></i> 분당신도시 아파트 <br>
+</div>
+    
+            <div class="folium-map" id="map_2520d952939b281f436f44744180cbfc" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_2520d952939b281f436f44744180cbfc = L.map(
+                "map_2520d952939b281f436f44744180cbfc",
+                {
+                    center: [37.374, 127.1741],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 13,
+                    zoomControl: false,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_be49906cf61f8f3ab4deea065efdbc11 = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 20, "maxZoom": 20, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abcd", "tms": false}
+            );
+        
+    
+            tile_layer_be49906cf61f8f3ab4deea065efdbc11.addTo(map_2520d952939b281f436f44744180cbfc);
+        
+    
+            var marker_e6144937290d2e229dbd72f94aa9d207 = L.marker(
+                [37.394736, 127.123048],
+                {}
+            ).addTo(map_2520d952939b281f436f44744180cbfc);
+        
+    
+            var icon_0125db1b09ed950fc9ccebbb8e410293 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_e6144937290d2e229dbd72f94aa9d207.setIcon(icon_0125db1b09ed950fc9ccebbb8e410293);
+        
+    
+        var popup_854bbedc9677fb04dfb5d220a2afaf4e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_9e6453234834f1bd06de877796e57972 = $(`<div id="html_9e6453234834f1bd06de877796e57972" style="width: 100.0%; height: 100.0%;">이매역</div>`)[0];
+                popup_854bbedc9677fb04dfb5d220a2afaf4e.setContent(html_9e6453234834f1bd06de877796e57972);
+            
+        
+
+        marker_e6144937290d2e229dbd72f94aa9d207.bindPopup(popup_854bbedc9677fb04dfb5d220a2afaf4e)
+        ;
+
+        
+    
+    
+            var marker_e21a1fd86b1f0218c7ded49dcbaec0c9 = L.marker(
+                [37.384931, 127.123249],
+                {}
+            ).addTo(map_2520d952939b281f436f44744180cbfc);
+        
+    
+            var icon_8c56efbc4488d369d0709e5a9ec77d91 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_e21a1fd86b1f0218c7ded49dcbaec0c9.setIcon(icon_8c56efbc4488d369d0709e5a9ec77d91);
+        
+    
+        var popup_8037ff510079b70b826c72bdd550d969 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f20effe84b6dbcd7f1d1d1c486304843 = $(`<div id="html_f20effe84b6dbcd7f1d1d1c486304843" style="width: 100.0%; height: 100.0%;">서현역</div>`)[0];
+                popup_8037ff510079b70b826c72bdd550d969.setContent(html_f20effe84b6dbcd7f1d1d1c486304843);
+            
+        
+
+        marker_e21a1fd86b1f0218c7ded49dcbaec0c9.bindPopup(popup_8037ff510079b70b826c72bdd550d969)
+        ;
+
+        
+    
+    
+            var marker_4e8fa2c499e7dc33b578473d0f837200 = L.marker(
+                [37.378435, 127.114216],
+                {}
+            ).addTo(map_2520d952939b281f436f44744180cbfc);
+        
+    
+            var icon_441317a749970cc84163b9807d100730 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_4e8fa2c499e7dc33b578473d0f837200.setIcon(icon_441317a749970cc84163b9807d100730);
+        
+    
+        var popup_366c03a72a7aea17381b69290e2cb718 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_242d957573a3546326f500229e57a302 = $(`<div id="html_242d957573a3546326f500229e57a302" style="width: 100.0%; height: 100.0%;">수내역</div>`)[0];
+                popup_366c03a72a7aea17381b69290e2cb718.setContent(html_242d957573a3546326f500229e57a302);
+            
+        
+
+        marker_4e8fa2c499e7dc33b578473d0f837200.bindPopup(popup_366c03a72a7aea17381b69290e2cb718)
+        ;
+
+        
+    
+    
+            var marker_fce220ef28f12689dead11cd000407ab = L.marker(
+                [37.366037, 127.108091],
+                {}
+            ).addTo(map_2520d952939b281f436f44744180cbfc);
+        
+    
+            var icon_015dd732fcba5f76a9baa76af9c5f062 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_fce220ef28f12689dead11cd000407ab.setIcon(icon_015dd732fcba5f76a9baa76af9c5f062);
+        
+    
+        var popup_b56112cab67e7afd14f4e72007a300db = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1781da134d88ae8c336dc61a081e529c = $(`<div id="html_1781da134d88ae8c336dc61a081e529c" style="width: 100.0%; height: 100.0%;">정자역</div>`)[0];
+                popup_b56112cab67e7afd14f4e72007a300db.setContent(html_1781da134d88ae8c336dc61a081e529c);
+            
+        
+
+        marker_fce220ef28f12689dead11cd000407ab.bindPopup(popup_b56112cab67e7afd14f4e72007a300db)
+        ;
+
+        
+    
+    
+            var marker_d7765c590ae2af9bc89ab2cb679cf547 = L.marker(
+                [37.339832, 127.108985],
+                {}
+            ).addTo(map_2520d952939b281f436f44744180cbfc);
+        
+    
+            var icon_97710863502eb3d22f1ce9543d64800c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_d7765c590ae2af9bc89ab2cb679cf547.setIcon(icon_97710863502eb3d22f1ce9543d64800c);
+        
+    
+        var popup_6789647331238a35c4d1b206fb0b28d9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_81dd6a3f755cb838af13de43331839fd = $(`<div id="html_81dd6a3f755cb838af13de43331839fd" style="width: 100.0%; height: 100.0%;">오리역</div>`)[0];
+                popup_6789647331238a35c4d1b206fb0b28d9.setContent(html_81dd6a3f755cb838af13de43331839fd);
+            
+        
+
+        marker_d7765c590ae2af9bc89ab2cb679cf547.bindPopup(popup_6789647331238a35c4d1b206fb0b28d9)
+        ;
+
+        
+    
+    
+            var heat_map_96e05cb61391905104308df3292efc8e = L.heatLayer(
+                [[37.3468815575605, 127.113362002443], [37.3493033801965, 127.114166520456], [37.3501363725723, 127.117124715749], [37.3475578274914, 127.117287518118], [37.3456085036719, 127.117234490172], [37.3454193273683, 127.11424663705], [37.3390949551811, 127.114850836292], [37.336865591831, 127.114607082956], [37.3351805354997, 127.116766237078], [37.3352265901825, 127.11937262161], [37.3365249849157, 127.118015921595], [37.3392931334513, 127.116923932955], [37.3392515183282, 127.118810688501], [37.3382030858963, 127.120938676529], [37.3402517686441, 127.120928419561], [37.3420755254364, 127.123216038861], [37.3417305985942, 127.124690109693], [37.3549947120017, 127.112487256737], [37.3540350427369, 127.111040295769], [37.3533265244674, 127.115504581873], [37.3525250574408, 127.114207968344], [37.3512665416129, 127.112945799232], [37.3524411607712, 127.110133538098], [37.3528760720241, 127.107306817766], [37.3520142843779, 127.107454801557], [37.3542193336039, 127.107296991307], [37.355776187205, 127.107233402473], [37.355338396704, 127.105205482461], [37.3529689993463, 127.104962104201], [37.3519772796094, 127.104914673656], [37.3736328920102, 127.130144914632], [37.3721658762487, 127.132065925457], [37.3719471061229, 127.127718780335], [37.3706637852674, 127.129203433368], [37.3721876259214, 127.141840167666], [37.3834138569681, 127.128341865393], [37.3810421959422, 127.125474860588], [37.3779077398483, 127.129463348656], [37.380227158354, 127.132551908767], [37.3777772133782, 127.135546825862], [37.3763950754019, 127.137547137205], [37.3746649774641, 127.1326931822], [37.3736256222418, 127.134310217953], [37.3731944837595, 127.137987356594], [37.3723628283288, 127.136129457224], [37.3815974031395, 127.117496555106], [37.3751581702323, 127.114715898526], [37.3751581702323, 127.114715898526], [37.3733539733718, 127.117090807273], [37.3779917954253, 127.118199867592], [37.375734845563, 127.119785770423], [37.3718495255657, 127.118813646477], [37.368844157259, 127.127047455089], [37.4060848973049, 127.154494493675], [37.4059349477356, 127.147092026659], [37.4064816660652, 127.144477878664], [37.4069936860693, 127.143243193421], [37.4077986491356, 127.141151973659], [37.4126861851954, 127.145790168455], [37.4132877996462, 127.144833667783], [37.4158373655431, 127.135289599957], [37.415143378848, 127.13995299744], [37.4134392936801, 127.141683525658], [37.4142076108838, 127.135754663676], [37.4158304828406, 127.132536343675], [37.4101802492519, 127.132487080689], [37.4087262092118, 127.127548282985], [37.4087427474569, 127.132259548394], [37.4087342980652, 127.13495265307], [37.4069473271782, 127.130028914575], [37.4063883898091, 127.121067163745], [37.4077863480587, 127.121305480394], [37.4154251975226, 127.124417596532], [37.4154251975226, 127.124417596532], [37.404315618534, 127.126886286686], [37.4029523429723, 127.126832033882], [37.3981123491762, 127.127233384135], [37.395996237542, 127.126956847725], [37.3941355094776, 127.126563083443], [37.3897775746956, 127.12703127899], [37.3911561989224, 127.124945154765], [37.3902659748106, 127.123931083265], [37.3923713071605, 127.126984725326], [37.3885994030621, 127.125931124623], [37.4038081165955, 127.121440022036], [37.4038081165955, 127.121440022036], [37.4038081165955, 127.121440022036], [37.4008002512182, 127.121516598079], [37.3979589579866, 127.121792656636], [37.395390289471, 127.121915774848], [37.3940172371461, 127.122076283328], [37.3747286211533, 127.106861157832], [37.3716628922031, 127.105142134978], [37.3707848307962, 127.104851333049], [37.3689843202806, 127.10514573491], [37.3675967096494, 127.11128526958], [37.3685817259699, 127.115867543517], [37.3683678243595, 127.118232859834], [37.366934762445, 127.120622740375], [37.3648687172051, 127.122369737317], [37.3648936953283, 127.120241980703], [37.3649060650598, 127.117798797996], [37.3648193515931, 127.115918765737], [37.364856504934, 127.113564689344], [37.3590918229397, 127.10699599675], [37.3574782005624, 127.107065156252], [37.3627059469466, 127.11587487688], [37.3622619147763, 127.117796809526], [37.3602640200752, 127.117844934106], [37.3605280309465, 127.115919953768], [37.3627688988781, 127.120238025953], [37.3622750597225, 127.122072143936], [37.3602991475789, 127.121858987426], [37.3601992734629, 127.120136737144], [37.3550563216371, 127.117240942378], [37.3751970785279, 127.110762696914], [37.3695205687812, 127.107497827507], [37.3625364464432, 127.111103618256], [37.3608621180767, 127.107540110386], [37.3608529281635, 127.10654381453], [37.3609831927987, 127.105160872278], [37.3406877578594, 127.12364926065], [37.3516858743255, 127.105738533729], [37.4090462336503, 127.136441928871], [37.3689682387682, 127.106503245937], [37.3696434706224, 127.106499684699], [37.3705645027605, 127.10649545481], [37.3703089701728, 127.105592952815], [37.3697522238373, 127.105595898006]],
+                {"blur": 15, "maxZoom": 18, "minOpacity": 0.5, "radius": 25}
+            );
+        
+    
+            heat_map_96e05cb61391905104308df3292efc8e.addTo(map_2520d952939b281f436f44744180cbfc);
+        
+</script>
+</html>

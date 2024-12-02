@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_e92b1d6939952bedb4ff9995d88e42c1 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+    <script src="https://cdn.jsdelivr.net/gh/python-visualization/folium@main/folium/templates/leaflet_heat.min.js"></script>
+</head>
+<body>
+    
+    
+<div style="
+    position: fixed;
+    bottom: 50px;
+    left: 50px;
+    width: 230px;
+    height: 60px;
+    background-color: white;
+    border:2px solid grey;
+    z-index:9999;
+    font-size:14px;
+    padding: 10px;">
+    <strong>일산신도시</strong><br>
+    <i style="background:blue; width:10px; height:10px; float:left; margin-right:5px; display:inline-block;"></i> 일산신도시 대규모점포 <br>
+</div>
+    
+            <div class="folium-map" id="map_e92b1d6939952bedb4ff9995d88e42c1" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_e92b1d6939952bedb4ff9995d88e42c1 = L.map(
+                "map_e92b1d6939952bedb4ff9995d88e42c1",
+                {
+                    center: [37.6584, 126.7686],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 13,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_4ad7938b4244b623f78e4121de07e5f0 = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 20, "maxZoom": 20, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abcd", "tms": false}
+            );
+        
+    
+            tile_layer_4ad7938b4244b623f78e4121de07e5f0.addTo(map_e92b1d6939952bedb4ff9995d88e42c1);
+        
+    
+            var heat_map_c1be72fbb27d151b25e817056e41f2b7 = L.heatLayer(
+                [[37.6599011281877, 126.754939130159], [37.6660976, 126.7505203], [37.6659389, 126.7564031], [37.6423587337, 126.7926815021], [37.6679645, 126.7513867], [37.667321, 126.7670186], [37.6431934574, 126.7897203592], [37.6731569387, 126.7552122529], [37.6679786706, 126.7516242854], [37.6518752456273, 126.778808452977], [37.6677395, 126.7645465], [37.6856543, 126.7708718], [37.6590645766, 126.7688671725], [37.6478809, 126.7823999], [37.6488301, 126.7792923], [37.6685431, 126.7654053], [37.6952287066, 126.7635780487], [37.6816119593, 126.7785124016], [37.6557984, 126.771928], [37.6774980239, 126.769094556], [37.6407745, 126.7885164], [37.6488301, 126.7792923], [37.6643761, 126.7544363], [37.6709039, 126.7611019], [37.678767, 126.7644092], [37.6877423505, 126.7728728924], [37.6610259, 126.7683192], [37.6900357343, 126.7633571965], [37.6666253, 126.7660121], [37.6589637, 126.7688243], [37.6431641, 126.789654], [37.6738948112, 126.7871031801], [37.6604725838, 126.7720959057], [37.6978513, 126.7653459], [37.6679786706, 126.7516242854], [37.661567383, 126.7441037261], [37.6496066, 126.7802078], [37.6545799678, 126.7768241412], [37.660698731227, 126.771996252809], [37.6692697, 126.7638275], [37.6998247824, 126.756295402]],
+                {"blur": 15, "maxZoom": 18, "minOpacity": 0.5, "radius": 25}
+            );
+        
+    
+            heat_map_c1be72fbb27d151b25e817056e41f2b7.addTo(map_e92b1d6939952bedb4ff9995d88e42c1);
+        
+</script>
+</html>

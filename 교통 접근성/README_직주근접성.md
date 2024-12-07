@@ -35,6 +35,7 @@
 </div>
 </details>
 
+
 - 서울시 구별 등록된 회사 수
     ![seoul_company_count](https://github.com/user-attachments/assets/146cea31-3a44-4888-80e4-7dbee472c47b)
 
@@ -55,6 +56,7 @@
 
 </body>
 </html>
+
 
 
 

@@ -58,7 +58,7 @@
 
 ## 📂 프로젝트 산출물
 - [분석 보고서](https://github.com/SnapishAgent/Ilsan-Investment-Insight/blob/main/public/2%EC%A1%B0_%EB%AF%B8%EB%93%9C_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EB%B6%84%EC%84%9D%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%A0%9C%EC%B6%9C%EB%B3%B8.pdf)
-- [발표 자료]([link_to_presentation.pdf](https://github.com/SnapishAgent/Ilsan-Investment-Insight/blob/main/public/2%EC%A1%B0_%EB%AF%B8%EB%93%9C_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%A0%9C%EC%B6%9C%EB%B3%B8.pdf))
+- [발표 자료](https://github.com/SnapishAgent/Ilsan-Investment-Insight/blob/main/public/2%EC%A1%B0_%EB%AF%B8%EB%93%9C_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%A0%9C%EC%B6%9C%EB%B3%B8.pdf)
 - [데이터셋](https://drive.google.com/drive/folders/1HwwrNQQaHvBbEYFXWECojHbyg7S5uaNn?usp=drive_link)
 
 ## 📚 참고 자료

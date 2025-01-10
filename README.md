@@ -1,7 +1,7 @@
 # 🏢 신도시 부동산 가치 분석 프로젝트
 
 [![alt text](https://github.com/SnapishAgent/Ilsan-Investment-Insight/blob/main/public/presentation-preview.jpg)](https://github.com/SnapishAgent/Ilsan-Investment-Insight/blob/main/public/2%EC%A1%B0_%EB%AF%B8%EB%93%9C_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%A0%9C%EC%B6%9C%EB%B3%B8.pdf)
-> 위의 메인 이미지 클릭 시, 프로젝트 발표 자료로 이동됩니다!
+> 메인 이미지 클릭 시, 프로젝트 발표 자료로 이동됩니다!
 
 ## 🔍 프로젝트 개요
 1기 신도시 간 부동산 가치 격차의 원인을 데이터 기반으로 분석하고, 일산 신도시의 미래 투자 가치를 제고하기 위한 해결방안을 도출하는 프로젝트입니다. 특히 분당과 일산의 상세 비교 분석을 통해 재건축 시대를 앞둔 일산 신도시의 경쟁력 강화 방안을 제시했습니다.

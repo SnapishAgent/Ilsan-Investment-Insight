@@ -1,4 +1,4 @@
-![alt text](Ilsan_New_Town_Future_Investment_Value.jpg)
+[![alt text](https://github.com/SnapishAgent/Ilsan-Investment-Insight/blob/main/public/presentation-preview.jpg)](https://github.com/SnapishAgent/Ilsan-Investment-Insight/blob/main/public/2%EC%A1%B0_%EB%AF%B8%EB%93%9C_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%A0%9C%EC%B6%9C%EB%B3%B8.pdf)
 
 ## 일산 신도시의 미래 투자 가치 탐색: 1차 신도시 재건축 지역과의 비교 분석
 - 1989년 1기 신도시 건설 이후 형성된 부동산 가치 차이를 분석하여, 상대적으로 저평가된 일산 신도시의 투자 가치를 높일 방안을 탐구.

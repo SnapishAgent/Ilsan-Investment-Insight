@@ -55,11 +55,11 @@
    - GTX-A 노선 연계 강화
    - 대중교통 접근성 개선
 
-## 📚 참고 자료
-- [국토교통부 실거래가 공개시스템](https://rt.molit.go.kr)
-- [공공데이터포털](https://data.go.kr)
-
 ## 📂 프로젝트 산출물
 - [분석 보고서](link_to_report.pdf)
 - [발표 자료](link_to_presentation.pdf)
 - [데이터셋](https://drive.google.com/drive/folders/1HwwrNQQaHvBbEYFXWECojHbyg7S5uaNn?usp=drive_link)
+
+## 📚 참고 자료
+- [국토교통부 실거래가 공개시스템](https://rt.molit.go.kr)
+- [공공데이터포털](https://data.go.kr)
